@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    font-family: 'Lato', sans-serif;
+    padding: 30px;
+}
+
+.header p {
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    background-color: #eeeeee;
+    margin: auto;
+    border-radius: 5px;
+    height: 150vh;
+    width: 100%;
+}
+
+.img-container {
+    width: 95%;
+    background-color: white;
+    margin: auto;
+    padding: 20px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    max-width: 100%;
+    
+}
+
+h1 {
+    text-align: center;
+    padding: 20px;
+    text-emphasis: bold;
+}
